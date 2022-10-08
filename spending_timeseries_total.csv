@@ -1,0 +1,414 @@
+day,month,top_category,spending,year,date_smart,wday
+1,2,Clothing Stores,2936444.34,2022,2/1/22,Tue
+2,2,Clothing Stores,2777297,2022,2/2/22,Wed
+3,2,Clothing Stores,2721017.56,2022,2/3/22,Thu
+4,2,Clothing Stores,3858669.71,2022,2/4/22,Fri
+5,2,Clothing Stores,2625184.71,2022,2/5/22,Sat
+6,2,Clothing Stores,2224737.13,2022,2/6/22,Sun
+7,2,Clothing Stores,11938726.02,2022,2/7/22,Mon
+8,2,Clothing Stores,3232882.13,2022,2/8/22,Tue
+9,2,Clothing Stores,3297337.2,2022,2/9/22,Wed
+10,2,Clothing Stores,3771131.99,2022,2/10/22,Thu
+11,2,Clothing Stores,5536965.23,2022,2/11/22,Fri
+12,2,Clothing Stores,2957795.7,2022,2/12/22,Sat
+13,2,Clothing Stores,2194425.03,2022,2/13/22,Sun
+14,2,Clothing Stores,13544302.12,2022,2/14/22,Mon
+15,2,Clothing Stores,3557554.05,2022,2/15/22,Tue
+16,2,Clothing Stores,3419006.89,2022,2/16/22,Wed
+17,2,Clothing Stores,3770960.03,2022,2/17/22,Thu
+18,2,Clothing Stores,5871657.47,2022,2/18/22,Fri
+19,2,Clothing Stores,3114868.58,2022,2/19/22,Sat
+20,2,Clothing Stores,2631093.36,2022,2/20/22,Sun
+21,2,Clothing Stores,2211259.77,2022,2/21/22,Mon
+22,2,Clothing Stores,17150446.75,2022,2/22/22,Tue
+23,2,Clothing Stores,3419512.05,2022,2/23/22,Wed
+24,2,Clothing Stores,3892342.23,2022,2/24/22,Thu
+25,2,Clothing Stores,5743512.12,2022,2/25/22,Fri
+26,2,Clothing Stores,3132945.76,2022,2/26/22,Sat
+27,2,Clothing Stores,2795664.49,2022,2/27/22,Sun
+28,2,Clothing Stores,15483006.8,2022,2/28/22,Mon
+1,3,Clothing Stores,3908171.92,2022,3/1/22,Tue
+2,3,Clothing Stores,4119681.53,2022,3/2/22,Wed
+3,3,Clothing Stores,4555294.93,2022,3/3/22,Thu
+4,3,Clothing Stores,6477731.39,2022,3/4/22,Fri
+5,3,Clothing Stores,3253353.26,2022,3/5/22,Sat
+6,3,Clothing Stores,2818585.39,2022,3/6/22,Sun
+7,3,Clothing Stores,15934119.52,2022,3/7/22,Mon
+8,3,Clothing Stores,3964140.98,2022,3/8/22,Tue
+9,3,Clothing Stores,4011763.65,2022,3/9/22,Wed
+10,3,Clothing Stores,4496792.33,2022,3/10/22,Thu
+11,3,Clothing Stores,6280453.67,2022,3/11/22,Fri
+12,3,Clothing Stores,3074667.62,2022,3/12/22,Sat
+13,3,Clothing Stores,2856388.02,2022,3/13/22,Sun
+14,3,Clothing Stores,15027528.84,2022,3/14/22,Mon
+15,3,Clothing Stores,4644914.61,2022,3/15/22,Tue
+16,3,Clothing Stores,4902173.42,2022,3/16/22,Wed
+17,3,Clothing Stores,5308806.54,2022,3/17/22,Thu
+18,3,Clothing Stores,7131621.55,2022,3/18/22,Fri
+19,3,Clothing Stores,3529827.51,2022,3/19/22,Sat
+20,3,Clothing Stores,2938160.33,2022,3/20/22,Sun
+21,3,Clothing Stores,16796790.5,2022,3/21/22,Mon
+22,3,Clothing Stores,4388843.11,2022,3/22/22,Tue
+23,3,Clothing Stores,4361443.71,2022,3/23/22,Wed
+24,3,Clothing Stores,4982600.09,2022,3/24/22,Thu
+25,3,Clothing Stores,6823882.58,2022,3/25/22,Fri
+26,3,Clothing Stores,3497067.06,2022,3/26/22,Sat
+27,3,Clothing Stores,2668921.5,2022,3/27/22,Sun
+28,3,Clothing Stores,15824116.75,2022,3/28/22,Mon
+29,3,Clothing Stores,4208516.73,2022,3/29/22,Tue
+30,3,Clothing Stores,4226917.91,2022,3/30/22,Wed
+31,3,Clothing Stores,4838096.68,2022,3/31/22,Thu
+1,2,Department Stores,8625366.68,2022,2/1/22,Tue
+2,2,Department Stores,8176644.63,2022,2/2/22,Wed
+3,2,Department Stores,8282749.51,2022,2/3/22,Thu
+4,2,Department Stores,9910170.39,2022,2/4/22,Fri
+5,2,Department Stores,5253582.99,2022,2/5/22,Sat
+6,2,Department Stores,4774934.28,2022,2/6/22,Sun
+7,2,Department Stores,27673974.11,2022,2/7/22,Mon
+8,2,Department Stores,8665558.55,2022,2/8/22,Tue
+9,2,Department Stores,8922030.07,2022,2/9/22,Wed
+10,2,Department Stores,9876752.61,2022,2/10/22,Thu
+11,2,Department Stores,13524434.87,2022,2/11/22,Fri
+12,2,Department Stores,5959757.64,2022,2/12/22,Sat
+13,2,Department Stores,5176748.63,2022,2/13/22,Sun
+14,2,Department Stores,30996756.25,2022,2/14/22,Mon
+15,2,Department Stores,8909785.79,2022,2/15/22,Tue
+16,2,Department Stores,8279456.66,2022,2/16/22,Wed
+17,2,Department Stores,9202527.79,2022,2/17/22,Thu
+18,2,Department Stores,12812172.7,2022,2/18/22,Fri
+19,2,Department Stores,5505059.88,2022,2/19/22,Sat
+20,2,Department Stores,4912207.15,2022,2/20/22,Sun
+21,2,Department Stores,4317105.38,2022,2/21/22,Mon
+22,2,Department Stores,36618317.7,2022,2/22/22,Tue
+23,2,Department Stores,8200850.86,2022,2/23/22,Wed
+24,2,Department Stores,10046467.75,2022,2/24/22,Thu
+25,2,Department Stores,13013063.53,2022,2/25/22,Fri
+26,2,Department Stores,5780534.75,2022,2/26/22,Sat
+27,2,Department Stores,5243423.64,2022,2/27/22,Sun
+28,2,Department Stores,32129049.14,2022,2/28/22,Mon
+1,3,Department Stores,9457819.28,2022,3/1/22,Tue
+2,3,Department Stores,9420953.4,2022,3/2/22,Wed
+3,3,Department Stores,10845916.48,2022,3/3/22,Thu
+4,3,Department Stores,13480326.66,2022,3/4/22,Fri
+5,3,Department Stores,5544317.81,2022,3/5/22,Sat
+6,3,Department Stores,5158357,2022,3/6/22,Sun
+7,3,Department Stores,31762659,2022,3/7/22,Mon
+8,3,Department Stores,9158236.74,2022,3/8/22,Tue
+9,3,Department Stores,9901807.51,2022,3/9/22,Wed
+10,3,Department Stores,9923644.79,2022,3/10/22,Thu
+11,3,Department Stores,14210492.68,2022,3/11/22,Fri
+12,3,Department Stores,5483175.19,2022,3/12/22,Sat
+13,3,Department Stores,5097353.79,2022,3/13/22,Sun
+14,3,Department Stores,30928584.26,2022,3/14/22,Mon
+15,3,Department Stores,9725577.4,2022,3/15/22,Tue
+16,3,Department Stores,10461843.96,2022,3/16/22,Wed
+17,3,Department Stores,11131581.04,2022,3/17/22,Thu
+18,3,Department Stores,14269874.61,2022,3/18/22,Fri
+19,3,Department Stores,5601414.2,2022,3/19/22,Sat
+20,3,Department Stores,5380895.91,2022,3/20/22,Sun
+21,3,Department Stores,32196804.66,2022,3/21/22,Mon
+22,3,Department Stores,9281232.9,2022,3/22/22,Tue
+23,3,Department Stores,9635306.39,2022,3/23/22,Wed
+24,3,Department Stores,10382605.7,2022,3/24/22,Thu
+25,3,Department Stores,13865391.97,2022,3/25/22,Fri
+26,3,Department Stores,5644965.3,2022,3/26/22,Sat
+27,3,Department Stores,4793022.41,2022,3/27/22,Sun
+28,3,Department Stores,30446712.03,2022,3/28/22,Mon
+29,3,Department Stores,9006662.23,2022,3/29/22,Tue
+30,3,Department Stores,9293089.64,2022,3/30/22,Wed
+31,3,Department Stores,10796172.05,2022,3/31/22,Thu
+1,2,Gasoline Stations,14446177.23,2022,2/1/22,Tue
+2,2,Gasoline Stations,14508608.11,2022,2/2/22,Wed
+3,2,Gasoline Stations,13789603.32,2022,2/3/22,Thu
+4,2,Gasoline Stations,15255368.03,2022,2/4/22,Fri
+5,2,Gasoline Stations,4414094.49,2022,2/5/22,Sat
+6,2,Gasoline Stations,4570848.85,2022,2/6/22,Sun
+7,2,Gasoline Stations,31197402.34,2022,2/7/22,Mon
+8,2,Gasoline Stations,13738046.68,2022,2/8/22,Tue
+9,2,Gasoline Stations,14168307.67,2022,2/9/22,Wed
+10,2,Gasoline Stations,14960479.91,2022,2/10/22,Thu
+11,2,Gasoline Stations,18206063.88,2022,2/11/22,Fri
+12,2,Gasoline Stations,4922793.26,2022,2/12/22,Sat
+13,2,Gasoline Stations,4813563.54,2022,2/13/22,Sun
+14,2,Gasoline Stations,33878498.87,2022,2/14/22,Mon
+15,2,Gasoline Stations,14503121.47,2022,2/15/22,Tue
+16,2,Gasoline Stations,14900466.38,2022,2/16/22,Wed
+17,2,Gasoline Stations,15447441.22,2022,2/17/22,Thu
+18,2,Gasoline Stations,19749356.96,2022,2/18/22,Fri
+19,2,Gasoline Stations,5077830.86,2022,2/19/22,Sat
+20,2,Gasoline Stations,5141374.61,2022,2/20/22,Sun
+21,2,Gasoline Stations,5080364.89,2022,2/21/22,Mon
+22,2,Gasoline Stations,44450633.38,2022,2/22/22,Tue
+23,2,Gasoline Stations,14561090.67,2022,2/23/22,Wed
+24,2,Gasoline Stations,16208046.77,2022,2/24/22,Thu
+25,2,Gasoline Stations,19387853.14,2022,2/25/22,Fri
+26,2,Gasoline Stations,5122045.51,2022,2/26/22,Sat
+27,2,Gasoline Stations,5241733.43,2022,2/27/22,Sun
+28,2,Gasoline Stations,35730891.42,2022,2/28/22,Mon
+1,3,Gasoline Stations,15006712.87,2022,3/1/22,Tue
+2,3,Gasoline Stations,15467364.9,2022,3/2/22,Wed
+3,3,Gasoline Stations,16406800.9,2022,3/3/22,Thu
+4,3,Gasoline Stations,20872667.2,2022,3/4/22,Fri
+5,3,Gasoline Stations,5478131.72,2022,3/5/22,Sat
+6,3,Gasoline Stations,5630378.39,2022,3/6/22,Sun
+7,3,Gasoline Stations,39491160.55,2022,3/7/22,Mon
+8,3,Gasoline Stations,16671165.27,2022,3/8/22,Tue
+9,3,Gasoline Stations,16915828.87,2022,3/9/22,Wed
+10,3,Gasoline Stations,17498919.21,2022,3/10/22,Thu
+11,3,Gasoline Stations,20706198.31,2022,3/11/22,Fri
+12,3,Gasoline Stations,5551720.4,2022,3/12/22,Sat
+13,3,Gasoline Stations,5718945.86,2022,3/13/22,Sun
+14,3,Gasoline Stations,38403898.13,2022,3/14/22,Mon
+15,3,Gasoline Stations,16153758.55,2022,3/15/22,Tue
+16,3,Gasoline Stations,16657181.83,2022,3/16/22,Wed
+17,3,Gasoline Stations,17678598.84,2022,3/17/22,Thu
+18,3,Gasoline Stations,21360794.15,2022,3/18/22,Fri
+19,3,Gasoline Stations,5649588.38,2022,3/19/22,Sat
+20,3,Gasoline Stations,6107760.09,2022,3/20/22,Sun
+21,3,Gasoline Stations,40731612.49,2022,3/21/22,Mon
+22,3,Gasoline Stations,16287336.87,2022,3/22/22,Tue
+23,3,Gasoline Stations,16429375.21,2022,3/23/22,Wed
+24,3,Gasoline Stations,17287622.24,2022,3/24/22,Thu
+25,3,Gasoline Stations,21543911.49,2022,3/25/22,Fri
+26,3,Gasoline Stations,5877177.19,2022,3/26/22,Sat
+27,3,Gasoline Stations,5571445.5,2022,3/27/22,Sun
+28,3,Gasoline Stations,40483458.75,2022,3/28/22,Mon
+29,3,Gasoline Stations,16898392.14,2022,3/29/22,Tue
+30,3,Gasoline Stations,16888094.96,2022,3/30/22,Wed
+31,3,Gasoline Stations,17992307.02,2022,3/31/22,Thu
+1,2,General Merchandise Stores including Warehouse Clubs and Supercenters,41474214.58,2022,2/1/22,Tue
+2,2,General Merchandise Stores including Warehouse Clubs and Supercenters,40097556.79,2022,2/2/22,Wed
+3,2,General Merchandise Stores including Warehouse Clubs and Supercenters,38191184.57,2022,2/3/22,Thu
+4,2,General Merchandise Stores including Warehouse Clubs and Supercenters,45529594.26,2022,2/4/22,Fri
+5,2,General Merchandise Stores including Warehouse Clubs and Supercenters,21713142.16,2022,2/5/22,Sat
+6,2,General Merchandise Stores including Warehouse Clubs and Supercenters,20408634.15,2022,2/6/22,Sun
+7,2,General Merchandise Stores including Warehouse Clubs and Supercenters,105573972.7,2022,2/7/22,Mon
+8,2,General Merchandise Stores including Warehouse Clubs and Supercenters,36765470.97,2022,2/8/22,Tue
+9,2,General Merchandise Stores including Warehouse Clubs and Supercenters,36992901.51,2022,2/9/22,Wed
+10,2,General Merchandise Stores including Warehouse Clubs and Supercenters,40119795.04,2022,2/10/22,Thu
+11,2,General Merchandise Stores including Warehouse Clubs and Supercenters,53064081.45,2022,2/11/22,Fri
+12,2,General Merchandise Stores including Warehouse Clubs and Supercenters,23935666.63,2022,2/12/22,Sat
+13,2,General Merchandise Stores including Warehouse Clubs and Supercenters,21246574.48,2022,2/13/22,Sun
+14,2,General Merchandise Stores including Warehouse Clubs and Supercenters,111568648.5,2022,2/14/22,Mon
+15,2,General Merchandise Stores including Warehouse Clubs and Supercenters,35181292.61,2022,2/15/22,Tue
+16,2,General Merchandise Stores including Warehouse Clubs and Supercenters,35529748.99,2022,2/16/22,Wed
+17,2,General Merchandise Stores including Warehouse Clubs and Supercenters,37099447.47,2022,2/17/22,Thu
+18,2,General Merchandise Stores including Warehouse Clubs and Supercenters,50996409.46,2022,2/18/22,Fri
+19,2,General Merchandise Stores including Warehouse Clubs and Supercenters,20972597.39,2022,2/19/22,Sat
+20,2,General Merchandise Stores including Warehouse Clubs and Supercenters,19909115.02,2022,2/20/22,Sun
+21,2,General Merchandise Stores including Warehouse Clubs and Supercenters,17924261.9,2022,2/21/22,Mon
+22,2,General Merchandise Stores including Warehouse Clubs and Supercenters,122872741.5,2022,2/22/22,Tue
+23,2,General Merchandise Stores including Warehouse Clubs and Supercenters,34826703.74,2022,2/23/22,Wed
+24,2,General Merchandise Stores including Warehouse Clubs and Supercenters,40513855.85,2022,2/24/22,Thu
+25,2,General Merchandise Stores including Warehouse Clubs and Supercenters,53565624.62,2022,2/25/22,Fri
+26,2,General Merchandise Stores including Warehouse Clubs and Supercenters,22807076.89,2022,2/26/22,Sat
+27,2,General Merchandise Stores including Warehouse Clubs and Supercenters,22062900.07,2022,2/27/22,Sun
+28,2,General Merchandise Stores including Warehouse Clubs and Supercenters,112235668,2022,2/28/22,Mon
+1,3,General Merchandise Stores including Warehouse Clubs and Supercenters,40421229.77,2022,3/1/22,Tue
+2,3,General Merchandise Stores including Warehouse Clubs and Supercenters,39987500.66,2022,3/2/22,Wed
+3,3,General Merchandise Stores including Warehouse Clubs and Supercenters,42861368.28,2022,3/3/22,Thu
+4,3,General Merchandise Stores including Warehouse Clubs and Supercenters,55504963.2,2022,3/4/22,Fri
+5,3,General Merchandise Stores including Warehouse Clubs and Supercenters,22019250.77,2022,3/5/22,Sat
+6,3,General Merchandise Stores including Warehouse Clubs and Supercenters,21278943.11,2022,3/6/22,Sun
+7,3,General Merchandise Stores including Warehouse Clubs and Supercenters,109435762.2,2022,3/7/22,Mon
+8,3,General Merchandise Stores including Warehouse Clubs and Supercenters,38869535.09,2022,3/8/22,Tue
+9,3,General Merchandise Stores including Warehouse Clubs and Supercenters,39073448.29,2022,3/9/22,Wed
+10,3,General Merchandise Stores including Warehouse Clubs and Supercenters,41812213.97,2022,3/10/22,Thu
+11,3,General Merchandise Stores including Warehouse Clubs and Supercenters,51838437.06,2022,3/11/22,Fri
+12,3,General Merchandise Stores including Warehouse Clubs and Supercenters,21487748.56,2022,3/12/22,Sat
+13,3,General Merchandise Stores including Warehouse Clubs and Supercenters,21406561.98,2022,3/13/22,Sun
+14,3,General Merchandise Stores including Warehouse Clubs and Supercenters,109834492.3,2022,3/14/22,Mon
+15,3,General Merchandise Stores including Warehouse Clubs and Supercenters,40414781.52,2022,3/15/22,Tue
+16,3,General Merchandise Stores including Warehouse Clubs and Supercenters,40431546.38,2022,3/16/22,Wed
+17,3,General Merchandise Stores including Warehouse Clubs and Supercenters,42538945.17,2022,3/17/22,Thu
+18,3,General Merchandise Stores including Warehouse Clubs and Supercenters,54502844.29,2022,3/18/22,Fri
+19,3,General Merchandise Stores including Warehouse Clubs and Supercenters,21764883.65,2022,3/19/22,Sat
+20,3,General Merchandise Stores including Warehouse Clubs and Supercenters,21279629.09,2022,3/20/22,Sun
+21,3,General Merchandise Stores including Warehouse Clubs and Supercenters,111693357.5,2022,3/21/22,Mon
+22,3,General Merchandise Stores including Warehouse Clubs and Supercenters,39286810.59,2022,3/22/22,Tue
+23,3,General Merchandise Stores including Warehouse Clubs and Supercenters,38069937.16,2022,3/23/22,Wed
+24,3,General Merchandise Stores including Warehouse Clubs and Supercenters,41015208.87,2022,3/24/22,Thu
+25,3,General Merchandise Stores including Warehouse Clubs and Supercenters,52732345.42,2022,3/25/22,Fri
+26,3,General Merchandise Stores including Warehouse Clubs and Supercenters,21808774.12,2022,3/26/22,Sat
+27,3,General Merchandise Stores including Warehouse Clubs and Supercenters,20062666.42,2022,3/27/22,Sun
+28,3,General Merchandise Stores including Warehouse Clubs and Supercenters,111025973,2022,3/28/22,Mon
+29,3,General Merchandise Stores including Warehouse Clubs and Supercenters,39784928.75,2022,3/29/22,Tue
+30,3,General Merchandise Stores including Warehouse Clubs and Supercenters,38532611.89,2022,3/30/22,Wed
+31,3,General Merchandise Stores including Warehouse Clubs and Supercenters,43838322.43,2022,3/31/22,Thu
+1,2,Grocery Stores,45017579.31,2022,2/1/22,Tue
+2,2,Grocery Stores,43346238.68,2022,2/2/22,Wed
+3,2,Grocery Stores,41319180.25,2022,2/3/22,Thu
+4,2,Grocery Stores,46926718.44,2022,2/4/22,Fri
+5,2,Grocery Stores,18559248.94,2022,2/5/22,Sat
+6,2,Grocery Stores,20342688.81,2022,2/6/22,Sun
+7,2,Grocery Stores,100827781.7,2022,2/7/22,Mon
+8,2,Grocery Stores,49721025.18,2022,2/8/22,Tue
+9,2,Grocery Stores,37842367.36,2022,2/9/22,Wed
+10,2,Grocery Stores,39751441.96,2022,2/10/22,Thu
+11,2,Grocery Stores,54142006.73,2022,2/11/22,Fri
+12,2,Grocery Stores,22685866.74,2022,2/12/22,Sat
+13,2,Grocery Stores,24245078.08,2022,2/13/22,Sun
+14,2,Grocery Stores,115754199.4,2022,2/14/22,Mon
+15,2,Grocery Stores,40100920.62,2022,2/15/22,Tue
+16,2,Grocery Stores,36450042.57,2022,2/16/22,Wed
+17,2,Grocery Stores,38212854.94,2022,2/17/22,Thu
+18,2,Grocery Stores,51267019.21,2022,2/18/22,Fri
+19,2,Grocery Stores,18279698.2,2022,2/19/22,Sat
+20,2,Grocery Stores,19562932.31,2022,2/20/22,Sun
+21,2,Grocery Stores,18167293.53,2022,2/21/22,Mon
+22,2,Grocery Stores,120145020.7,2022,2/22/22,Tue
+23,2,Grocery Stores,37169302.8,2022,2/23/22,Wed
+24,2,Grocery Stores,40799057.87,2022,2/24/22,Thu
+25,2,Grocery Stores,50419017.07,2022,2/25/22,Fri
+26,2,Grocery Stores,18938741.68,2022,2/26/22,Sat
+27,2,Grocery Stores,21449632.75,2022,2/27/22,Sun
+28,2,Grocery Stores,103718362.4,2022,2/28/22,Mon
+1,3,Grocery Stores,42181374.44,2022,3/1/22,Tue
+2,3,Grocery Stores,39890160.57,2022,3/2/22,Wed
+3,3,Grocery Stores,41181983.64,2022,3/3/22,Thu
+4,3,Grocery Stores,53877197.5,2022,3/4/22,Fri
+5,3,Grocery Stores,19009150.47,2022,3/5/22,Sat
+6,3,Grocery Stores,20973608.27,2022,3/6/22,Sun
+7,3,Grocery Stores,103766150.9,2022,3/7/22,Mon
+8,3,Grocery Stores,41118466.66,2022,3/8/22,Tue
+9,3,Grocery Stores,39229048.19,2022,3/9/22,Wed
+10,3,Grocery Stores,39998356.11,2022,3/10/22,Thu
+11,3,Grocery Stores,51343541.75,2022,3/11/22,Fri
+12,3,Grocery Stores,18542511.38,2022,3/12/22,Sat
+13,3,Grocery Stores,20509735.53,2022,3/13/22,Sun
+14,3,Grocery Stores,101129780.9,2022,3/14/22,Mon
+15,3,Grocery Stores,40497387.19,2022,3/15/22,Tue
+16,3,Grocery Stores,39663181.46,2022,3/16/22,Wed
+17,3,Grocery Stores,40176396.29,2022,3/17/22,Thu
+18,3,Grocery Stores,51087051.42,2022,3/18/22,Fri
+19,3,Grocery Stores,18630712.61,2022,3/19/22,Sat
+20,3,Grocery Stores,21049426.82,2022,3/20/22,Sun
+21,3,Grocery Stores,102019966.7,2022,3/21/22,Mon
+22,3,Grocery Stores,40207984.69,2022,3/22/22,Tue
+23,3,Grocery Stores,38123112.98,2022,3/23/22,Wed
+24,3,Grocery Stores,39691354.48,2022,3/24/22,Thu
+25,3,Grocery Stores,51470744.34,2022,3/25/22,Fri
+26,3,Grocery Stores,19147505.4,2022,3/26/22,Sat
+27,3,Grocery Stores,20466894.06,2022,3/27/22,Sun
+28,3,Grocery Stores,103097930.5,2022,3/28/22,Mon
+29,3,Grocery Stores,41541113.71,2022,3/29/22,Tue
+30,3,Grocery Stores,38838278.89,2022,3/30/22,Wed
+31,3,Grocery Stores,43550832.88,2022,3/31/22,Thu
+1,2,Restaurants and Other Eating Places,21494626.29,2022,2/1/22,Tue
+2,2,Restaurants and Other Eating Places,21865176.08,2022,2/2/22,Wed
+3,2,Restaurants and Other Eating Places,21970638.59,2022,2/3/22,Thu
+4,2,Restaurants and Other Eating Places,24035793.05,2022,2/4/22,Fri
+5,2,Restaurants and Other Eating Places,8411249.39,2022,2/5/22,Sat
+6,2,Restaurants and Other Eating Places,9438988.77,2022,2/6/22,Sun
+7,2,Restaurants and Other Eating Places,63335517.84,2022,2/7/22,Mon
+8,2,Restaurants and Other Eating Places,21383395.18,2022,2/8/22,Tue
+9,2,Restaurants and Other Eating Places,20987632.67,2022,2/9/22,Wed
+10,2,Restaurants and Other Eating Places,24377642.69,2022,2/10/22,Thu
+11,2,Restaurants and Other Eating Places,27617496.28,2022,2/11/22,Fri
+12,2,Restaurants and Other Eating Places,9033688.64,2022,2/12/22,Sat
+13,2,Restaurants and Other Eating Places,9860842.41,2022,2/13/22,Sun
+14,2,Restaurants and Other Eating Places,67286857.64,2022,2/14/22,Mon
+15,2,Restaurants and Other Eating Places,23234725.38,2022,2/15/22,Tue
+16,2,Restaurants and Other Eating Places,23572570.53,2022,2/16/22,Wed
+17,2,Restaurants and Other Eating Places,23625701.73,2022,2/17/22,Thu
+18,2,Restaurants and Other Eating Places,29653214.03,2022,2/18/22,Fri
+19,2,Restaurants and Other Eating Places,9307129.23,2022,2/19/22,Sat
+20,2,Restaurants and Other Eating Places,9979838.99,2022,2/20/22,Sun
+21,2,Restaurants and Other Eating Places,8326991.78,2022,2/21/22,Mon
+22,2,Restaurants and Other Eating Places,89111360,2022,2/22/22,Tue
+23,2,Restaurants and Other Eating Places,22734630.43,2022,2/23/22,Wed
+24,2,Restaurants and Other Eating Places,23854338.87,2022,2/24/22,Thu
+25,2,Restaurants and Other Eating Places,29132967.05,2022,2/25/22,Fri
+26,2,Restaurants and Other Eating Places,9293667.97,2022,2/26/22,Sat
+27,2,Restaurants and Other Eating Places,10046326.89,2022,2/27/22,Sun
+28,2,Restaurants and Other Eating Places,73069809.54,2022,2/28/22,Mon
+1,3,Restaurants and Other Eating Places,24331143.67,2022,3/1/22,Tue
+2,3,Restaurants and Other Eating Places,24163616.57,2022,3/2/22,Wed
+3,3,Restaurants and Other Eating Places,25888613.81,2022,3/3/22,Thu
+4,3,Restaurants and Other Eating Places,30916461.16,2022,3/4/22,Fri
+5,3,Restaurants and Other Eating Places,9097612.46,2022,3/5/22,Sat
+6,3,Restaurants and Other Eating Places,9872042.23,2022,3/6/22,Sun
+7,3,Restaurants and Other Eating Places,73844489.66,2022,3/7/22,Mon
+8,3,Restaurants and Other Eating Places,23181310.18,2022,3/8/22,Tue
+9,3,Restaurants and Other Eating Places,23169326.22,2022,3/9/22,Wed
+10,3,Restaurants and Other Eating Places,25830082.59,2022,3/10/22,Thu
+11,3,Restaurants and Other Eating Places,28217192.59,2022,3/11/22,Fri
+12,3,Restaurants and Other Eating Places,9305979.97,2022,3/12/22,Sat
+13,3,Restaurants and Other Eating Places,10000245.66,2022,3/13/22,Sun
+14,3,Restaurants and Other Eating Places,67820615.31,2022,3/14/22,Mon
+15,3,Restaurants and Other Eating Places,23547194.65,2022,3/15/22,Tue
+16,3,Restaurants and Other Eating Places,23209310.21,2022,3/16/22,Wed
+17,3,Restaurants and Other Eating Places,24703224.13,2022,3/17/22,Thu
+18,3,Restaurants and Other Eating Places,29485507.36,2022,3/18/22,Fri
+19,3,Restaurants and Other Eating Places,9222572.63,2022,3/19/22,Sat
+20,3,Restaurants and Other Eating Places,9890742.24,2022,3/20/22,Sun
+21,3,Restaurants and Other Eating Places,69581279.27,2022,3/21/22,Mon
+22,3,Restaurants and Other Eating Places,22605983.24,2022,3/22/22,Tue
+23,3,Restaurants and Other Eating Places,22401471.15,2022,3/23/22,Wed
+24,3,Restaurants and Other Eating Places,23917284,2022,3/24/22,Thu
+25,3,Restaurants and Other Eating Places,29320934.53,2022,3/25/22,Fri
+26,3,Restaurants and Other Eating Places,9300572.32,2022,3/26/22,Sat
+27,3,Restaurants and Other Eating Places,8759183.26,2022,3/27/22,Sun
+28,3,Restaurants and Other Eating Places,69885503.22,2022,3/28/22,Mon
+29,3,Restaurants and Other Eating Places,23315843.6,2022,3/29/22,Tue
+30,3,Restaurants and Other Eating Places,22479316.89,2022,3/30/22,Wed
+31,3,Restaurants and Other Eating Places,24325888.24,2022,3/31/22,Thu
+1,2,Traveler Accommodation,1724805.73,2022,2/1/22,Tue
+2,2,Traveler Accommodation,1126085.99,2022,2/2/22,Wed
+3,2,Traveler Accommodation,1161715.5,2022,2/3/22,Thu
+4,2,Traveler Accommodation,1411492.58,2022,2/4/22,Fri
+5,2,Traveler Accommodation,777115.74,2022,2/5/22,Sat
+6,2,Traveler Accommodation,955305.58,2022,2/6/22,Sun
+7,2,Traveler Accommodation,3314979.49,2022,2/7/22,Mon
+8,2,Traveler Accommodation,1775769.51,2022,2/8/22,Tue
+9,2,Traveler Accommodation,1287450.8,2022,2/9/22,Wed
+10,2,Traveler Accommodation,1256833.65,2022,2/10/22,Thu
+11,2,Traveler Accommodation,1666862.98,2022,2/11/22,Fri
+12,2,Traveler Accommodation,888746.51,2022,2/12/22,Sat
+13,2,Traveler Accommodation,1185479.52,2022,2/13/22,Sun
+14,2,Traveler Accommodation,3446375.78,2022,2/14/22,Mon
+15,2,Traveler Accommodation,1984468.67,2022,2/15/22,Tue
+16,2,Traveler Accommodation,1536869.4,2022,2/16/22,Wed
+17,2,Traveler Accommodation,1493541.01,2022,2/17/22,Thu
+18,2,Traveler Accommodation,2163952.03,2022,2/18/22,Fri
+19,2,Traveler Accommodation,1196965.11,2022,2/19/22,Sat
+20,2,Traveler Accommodation,1340514.37,2022,2/20/22,Sun
+21,2,Traveler Accommodation,1528969.42,2022,2/21/22,Mon
+22,2,Traveler Accommodation,4943306.95,2022,2/22/22,Tue
+23,2,Traveler Accommodation,1786996.89,2022,2/23/22,Wed
+24,2,Traveler Accommodation,1503015.01,2022,2/24/22,Thu
+25,2,Traveler Accommodation,2038412.94,2022,2/25/22,Fri
+26,2,Traveler Accommodation,1058481.72,2022,2/26/22,Sat
+27,2,Traveler Accommodation,1344582.41,2022,2/27/22,Sun
+28,2,Traveler Accommodation,3616581.87,2022,2/28/22,Mon
+1,3,Traveler Accommodation,2251376.33,2022,3/1/22,Tue
+2,3,Traveler Accommodation,1659876.46,2022,3/2/22,Wed
+3,3,Traveler Accommodation,1416408.81,2022,3/3/22,Thu
+4,3,Traveler Accommodation,2032844.75,2022,3/4/22,Fri
+5,3,Traveler Accommodation,944670.1,2022,3/5/22,Sat
+6,3,Traveler Accommodation,1281031.82,2022,3/6/22,Sun
+7,3,Traveler Accommodation,3864903.85,2022,3/7/22,Mon
+8,3,Traveler Accommodation,2323425.44,2022,3/8/22,Tue
+9,3,Traveler Accommodation,1809650.66,2022,3/9/22,Wed
+10,3,Traveler Accommodation,1549961.92,2022,3/10/22,Thu
+11,3,Traveler Accommodation,2088560.17,2022,3/11/22,Fri
+12,3,Traveler Accommodation,1149515.87,2022,3/12/22,Sat
+13,3,Traveler Accommodation,1332257.48,2022,3/13/22,Sun
+14,3,Traveler Accommodation,3990230.72,2022,3/14/22,Mon
+15,3,Traveler Accommodation,2449273.79,2022,3/15/22,Tue
+16,3,Traveler Accommodation,1801111.77,2022,3/16/22,Wed
+17,3,Traveler Accommodation,1759272.05,2022,3/17/22,Thu
+18,3,Traveler Accommodation,2275717.3,2022,3/18/22,Fri
+19,3,Traveler Accommodation,1241366.94,2022,3/19/22,Sat
+20,3,Traveler Accommodation,1501107.9,2022,3/20/22,Sun
+21,3,Traveler Accommodation,4192504.32,2022,3/21/22,Mon
+22,3,Traveler Accommodation,2560689.27,2022,3/22/22,Tue
+23,3,Traveler Accommodation,1723859.53,2022,3/23/22,Wed
+24,3,Traveler Accommodation,1572164.7,2022,3/24/22,Thu
+25,3,Traveler Accommodation,2301923.27,2022,3/25/22,Fri
+26,3,Traveler Accommodation,1099571.7,2022,3/26/22,Sat
+27,3,Traveler Accommodation,1429210.48,2022,3/27/22,Sun
+28,3,Traveler Accommodation,4396869.28,2022,3/28/22,Mon
+29,3,Traveler Accommodation,2546953.06,2022,3/29/22,Tue
+30,3,Traveler Accommodation,1810485.42,2022,3/30/22,Wed
+31,3,Traveler Accommodation,1625604.49,2022,3/31/22,Thu
